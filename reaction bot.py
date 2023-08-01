@@ -55,5 +55,5 @@ async def on_raw_reaction_remove(payload):
   else:
     print("role not found.")
 
-client.run("MTExNjc4MzU1MDc2MzYzMDY5Mg.Gcp7uh.umjggTiIgap_Mo_iaaFRYaSTNpgVURbqJqDamw")
+client.run("")
 
